@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-# Primeros enlaces, hardware
+# Primeros enlaces, hardware [link](categories/hardware)
 
 - [Lenovo Yoga 510-14IKB](https://www.amazon.es/dp/B06W9K6Z6R/), empezó en 858€
 - [Lenovo Yoga 520-14](https://www.amazon.es/dp/B072N3111K/), empezó en 799€
