@@ -1,3 +1,3 @@
 # Productos del hogar
 
-- [Conga Excellence 990](https://www.amazon.es/dp/B01MUGXRT9/), por 239€ (189€ en black Friday)
+- [Conga Excellence 990](http://amzn.to/2AVl7dz), por 239€ (189€ en black Friday)
