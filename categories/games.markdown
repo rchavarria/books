@@ -4,7 +4,7 @@
 
 <ul>
   <li>
-<a target="_blank" href="https://www.amazon.es/gp/product/B01G5PB8UY/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01G5PB8UY&linkCode=undefined&tag=rchavarria-21&linkId=2588ad254d40818633db243e814cd475">Cyber Robot</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=rchavarria-21&l=am2&o=30&a=B01G5PB8UY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> de Clementoni, versión española, por 32,80€</li>
+<a target="_blank" href="https://www.amazon.es/gp/product/B01G5PB8UY/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01G5PB8UY&linkCode=undefined&tag=rchavarria-21&linkId=2588ad254d40818633db243e814cd475">Cyber Robot</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=rchavarria-21&l=am2&o=30&a=B01G5PB8UY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> de Clementoni, versión española, por 32,80€
   </li>
   <li>
 <a target="_blank" href="https://www.amazon.es/gp/product/B010VFIK46/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B010VFIK46&linkCode=undefined&tag=rchavarria-21&linkId=3397a570e4bae2c7deb796b15a46a8f0">Mio, el robot programable</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=rchavarria-21&l=am2&o=30&a=B010VFIK46" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> de Clementoni, 28,17€
