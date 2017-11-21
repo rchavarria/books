@@ -27,8 +27,6 @@
 
 ## Lego
 
-- [Estación de esquí, cabaña](http://amzn.to/2jyp3he), por 31,09€
-
 <ul>
   <li>
 <a target="_blank" href="https://www.amazon.es/gp/product/B06WLL3SMJ/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B06WLL3SMJ&linkCode=undefined&tag=rchavarria-21&linkId=981fb4a3b940a4aa977222c34e8be6c8">Lego, estación de esquí, cabaña</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=rchavarria-21&l=am2&o=30&a=B06WLL3SMJ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> por 31,09€
