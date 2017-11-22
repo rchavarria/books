@@ -19,7 +19,11 @@
   <li>
 <a target="_blank" href="https://www.amazon.es/gp/product/B071KGRXRH/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B071KGRXRH&linkCode=undefined&tag=rchavarria-21&linkId=dc343687b82998f6a18b576491c7f701">SanDisk Ultra, 250 GB SSD 3D</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=rchavarria-21&l=am2&o=30&a=B071KGRXRH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> por 74,89€
   </li>
+  <li>
+<a target="_blank" href="https://www.amazon.es/gp/product/B00P736UEU/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00P736UEU&linkCode=undefined&tag=rchavarria-21&linkId=59d634f98c68de8bed3ceb4597c41771">Samsung 850 EVO, SSD 250Gb</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=rchavarria-21&l=am2&o=30&a=B00P736UEU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> por 91,90€
+  </li>
 </ul>
+
 
 # Mini-hardware
 
